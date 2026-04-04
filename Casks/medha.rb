@@ -1,9 +1,9 @@
 cask "medha" do
   arch arm: "arm64", intel: "x64"
 
-  version "0.1.0"
-  sha256 arm:   "e9c3e68346baa54c926da6658d312bda03ff7b63313b035bb8fe843842cb94fc",
-         intel: "8c6fc33579ea0373fcba04db0aaadc4596d84c91aaea072978de0212d1131a91"
+  version "0.2.0"
+  sha256 arm:   "af8eb7b21693c06d7a591618e41987da4d7082e40b1b3c2f0086c55d7f8f7128",
+         intel: "2ef7291a8f570e10b6eaeef38ef4b17085b02ff27dca5398d589670b49493a42"
 
   url "https://github.com/jayshah5696/medha/releases/download/v#{version}/Medha-#{version}-#{arch}.dmg"
   name "Medha"
