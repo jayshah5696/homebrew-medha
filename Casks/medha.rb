@@ -1,5 +1,5 @@
 cask "medha" do
-  arch arm: "arm64", intel: "4f4559b2c1d9207ad2bf2ddd4c4ad69cffba9814c960c8d4bc8e1e649fd34abd"
+  arch arm: "arm64", intel: "x64"
 
   version "0.2.0"
   sha256 arm:   "9d8d3739eabb098d71c187d70e2a2ecc6ab0140be60df45f82622dcbbf9d1378",
